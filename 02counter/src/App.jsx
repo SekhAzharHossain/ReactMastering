@@ -14,8 +14,8 @@ function App() {
     // console.log(value)
     // counter+=1
     if(counter<20){
-
       setCounter(counter+1)
+      
     }
   }
   const decreaseValue=()=>{
